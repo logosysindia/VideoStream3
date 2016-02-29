@@ -18,7 +18,7 @@ public class VideoViewActivity extends Activity {
 	VideoView videoview;
 	
 	// Insert your Video URL
-	String VideoURL = "http://stream.logosys.in:1935/logosys/logosys/playlist.m3u8";
+	String VideoURL = "http://stream.logosys.in:1935/nishaislamic/nishaislamic/playlist.m3u8";
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
