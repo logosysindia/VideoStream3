@@ -43,8 +43,8 @@
                     "startLine": 5,
                     "startColumn": 4,
                     "startOffset": 222,
-                    "endColumn": 53,
-                    "endOffset": 271
+                    "endColumn": 50,
+                    "endOffset": 268
                 },
                 "from": {
                     "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\strings.xml",
@@ -52,8 +52,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 59,
-                        "endColumn": 53,
-                        "endOffset": 108
+                        "endColumn": 50,
+                        "endOffset": 105
                     }
                 }
             },
@@ -61,9 +61,9 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 276,
+                    "startOffset": 273,
                     "endColumn": 52,
-                    "endOffset": 324
+                    "endOffset": 321
                 },
                 "from": {
                     "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\strings.xml"
@@ -73,18 +73,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 329,
-                    "endColumn": 70,
-                    "endOffset": 395
+                    "startOffset": 326,
+                    "endColumn": 67,
+                    "endOffset": 389
                 },
                 "from": {
                     "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 222,
-                        "endColumn": 70,
-                        "endOffset": 288
+                        "startOffset": 219,
+                        "endColumn": 67,
+                        "endOffset": 282
                     }
                 }
             },
@@ -92,10 +92,10 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 400,
+                    "startOffset": 394,
                     "endLine": 14,
                     "endColumn": 12,
-                    "endOffset": 686
+                    "endOffset": 680
                 },
                 "from": {
                     "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\styles.xml"
@@ -105,10 +105,10 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 691,
+                    "startOffset": 685,
                     "endLine": 17,
                     "endColumn": 12,
-                    "endOffset": 846
+                    "endOffset": 840
                 },
                 "from": {
                     "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\styles.xml"
