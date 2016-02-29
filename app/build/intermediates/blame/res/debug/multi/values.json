@@ -11,7 +11,14 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 217
                 },
                 "from": {
-                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
                 }
             },
             {
@@ -66,7 +87,14 @@
                     "endOffset": 321
                 },
                 "from": {
-                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 52,
+                        "endOffset": 213
+                    }
                 }
             },
             {
@@ -98,7 +126,15 @@
                     "endOffset": 680
                 },
                 "from": {
-                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
                 }
             },
             {
@@ -111,7 +147,15 @@
                     "endOffset": 840
                 },
                 "from": {
-                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
                 }
             }
         ]
