@@ -1,0 +1,119 @@
+[
+    {
+        "outputFile": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 53,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 53,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 52,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 70,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endColumn": 70,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 686
+                },
+                "from": {
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 691,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 846
+                },
+                "from": {
+                    "file": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

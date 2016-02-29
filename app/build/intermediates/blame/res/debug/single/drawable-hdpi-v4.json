@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\media.png",
+        "source": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\drawable-hdpi\\media.png"
+    },
+    {
+        "merged": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.jpg",
+        "source": "C:\\Users\\MAHIKA\\AndroidStudioProjects\\VideoStream3\\app\\src\\main\\res\\drawable-hdpi\\bg.jpg"
+    }
+]
